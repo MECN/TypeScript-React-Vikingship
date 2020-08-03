@@ -9,3 +9,4 @@ let viking:Person={
 }
 
 console.log(viking);//{ name: 'viking', age: 20 }
+// 水利局发斯蒂芬
