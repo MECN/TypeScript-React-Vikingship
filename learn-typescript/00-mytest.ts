@@ -10,5 +10,5 @@ console.log(gender);//1
 let o2={
   gender:Gender.male//这样就得到了1
 }
-console.log(o2);//{gender:1}
+// console.log(o2);//{gender:1}
 
