@@ -4,7 +4,7 @@ enum Gender{
   unknow=2//未知
 }
 let gender:Gender=Gender.male//这样就得到了1
-console.log(gender);//1
+// console.log(gender);//1
 
 //用对象也可以获取
 let o2={
